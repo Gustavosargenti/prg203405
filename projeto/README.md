@@ -4,11 +4,11 @@
 
 # Hidden Code 
 
-## << Descrição breve do domínio do problema >>
+## Hidden Code é um jogo de lógica desenvolvido com Programação Orientada a Objetos. O jogador deve descobrir uma senha numérica oculta, escolhendo o nível de dificuldade (fácil, médio ou difícil). A cada tentativa, o jogo revela quantos números estão corretos e na posição certa.
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
-> Aluno: Nome do aluno  
+> Aluno: Gustavo Sargenti da Silva Hartmann de Andrade Neves  
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
