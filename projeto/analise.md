@@ -9,7 +9,7 @@ Trata-se de um problema que envolve validação de entradas, comparações posic
 ## Diagrama de Casos de Uso
 ### 🎯 Hidden Code
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f03d3855-3843-44b4-a5d9-2afdee367264" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/dd40ba0d-80c5-414f-ab49-9b26b720d916" alt="Imagem ilustrativa do projeto" />
 </p>
 
 | Caso de Uso                          | Descrição                                                                                  |
@@ -25,7 +25,9 @@ Trata-se de um problema que envolve validação de entradas, comparações posic
  
 ## Diagrama de Domínio do problema
 
-Elaborar um diagrama conceitual do domínio do problema.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd40ba0d-80c5-414f-ab49-9b26b720d916" alt="Imagem ilustrativa do projeto" />
+</p>
 
 
 <div align="center">
