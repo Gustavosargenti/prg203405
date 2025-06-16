@@ -3,9 +3,7 @@
 > A **análise** orientada a objeto consiste na descrição do problema a ser tratado, duas primeiras etapas da tabela abaixo, a definição de casos de uso e a definição do domínio do problema.
 
 ## Descrição Geral do domínio do problema
-O projeto Hidden Password está inserido no domínio dos jogos de lógica baseados em tentativa e erro. Ele simula um desafio onde o jogador deve descobrir uma senha numérica oculta, utilizando raciocínio lógico e estratégias de dedução. A cada tentativa, o sistema fornece um feedback indicando quantos números foram acertados na posição correta, permitindo ao jogador ajustar suas próximas jogadas até encontrar a senha correta.
-
-Trata-se de um problema que envolve validação de entradas, comparações posicionais, geração pseudoaleatória de dados e controle de fluxo de jogo, além de permitir a aplicação direta dos principais pilares da Programação Orientada a Objetos (POO).
+O projeto Hidden Password está inserido no domínio dos jogos de lógica baseados em tentativa e erro. Ele simula um desafio onde o jogador deve descobrir uma senha numérica oculta, utilizando raciocínio lógico e estratégias de dedução. A cada tentativa, o sistema fornece um feedback indicando quantos números foram acertados na posição correta, permitindo ao jogador ajustar suas próximas jogadas até encontrar a senha correta. Trata-se de um problema que envolve validação de entradas, comparações posicionais, geração pseudoaleatória de dados e controle de fluxo de jogo.
 ## Diagrama de Casos de Uso
 ### 🎯 Hidden Password
 <p align="center">
