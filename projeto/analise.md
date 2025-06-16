@@ -9,8 +9,9 @@ Trata-se de um problema que envolve validação de entradas, comparações posic
 ## Diagrama de Casos de Uso
 ### 🎯 Hidden Code
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e128e979-b7e6-4f83-979e-a74fcdee19ee" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/f03d3855-3843-44b4-a5d9-2afdee367264" alt="Imagem ilustrativa do projeto" />
 </p>
+
 | Caso de Uso                          | Descrição                                                                                  |
 |--------------------------------------|---------------------------------------------------------------------------------------------|
 | **Selecionar nível de dificuldade**  | Jogador escolhe entre fácil (3 dígitos), médio (4 dígitos) ou difícil (4 dígitos + troca). |
