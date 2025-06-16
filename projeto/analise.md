@@ -7,7 +7,7 @@ O projeto Hidden Password está inserido no domínio dos jogos de lógica basead
 ## Diagrama de Casos de Uso
 ### 🎯 Hidden Password
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc164753-1225-4360-9893-6d099b402ca6" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/e2359bf7-1fe9-4ac5-9e47-0282fad062c6" alt="Imagem ilustrativa do projeto" />
 </p>
 
 | Caso de Uso                          | Descrição                                                                                  |
