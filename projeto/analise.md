@@ -9,7 +9,7 @@ Trata-se de um problema que envolve validação de entradas, comparações posic
 ## Diagrama de Casos de Uso
 ### 🎯 Hidden Password
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd40ba0d-80c5-414f-ab49-9b26b720d916" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/9de2c99b-2462-4b7a-ac0b-b94bb9c42441" alt="Imagem ilustrativa do projeto" />
 </p>
 
 | Caso de Uso                          | Descrição                                                                                  |
