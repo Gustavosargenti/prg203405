@@ -18,7 +18,7 @@ Trata-se de um problema que envolve validação de entradas, comparações posic
 | **Iniciar jogo**                     | Sistema gera a senha aleatória e inicializa a partida.                                     |
 | **Inserir palpite**                  | Jogador digita uma sequência numérica tentando adivinhar a senha.                          |
 | **Receber feedback**                 | Sistema informa quantos números estão corretos e na posição correta.                       |
-| **Trocar senha** *(somente no difícil)* | Após 15 tentativas, o sistema troca automaticamente a senha.                              |
+| **Trocar senha** *(somente no difícil)* | Após 15 tentativas, o sistema embaralha automaticamente a senha.                              |
 | **Finalizar jogo**                   | O jogo termina quando o jogador acerta a senha.                                            |
 | **Visualizar número de tentativas**  | O sistema mostra quantos palpites foram realizados.                                        |
 
