@@ -26,7 +26,7 @@ Trata-se de um problema que envolve validação de entradas, comparações posic
 ## Diagrama de Domínio do problema
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/17a2f1d3-6c83-4a27-a4c7-e44052c7f8e5" alt="Imagem ilustrativa do projeto" />
+  <img src="https://github.com/user-attachments/assets/ca7ea4f4-c42b-463a-afec-62770cbf9a63" alt="Imagem ilustrativa do projeto" />
 </p>
 
 
