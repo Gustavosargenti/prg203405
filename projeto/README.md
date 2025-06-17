@@ -4,7 +4,7 @@
 
 # Hidden Password 
 
-## Hidden Password é um jogo de lógica desenvolvido com Programação Orientada a Objetos. O jogador deve descobrir uma senha numérica oculta, escolhendo o nível de dificuldade (fácil, médio ou difícil). A cada tentativa, o jogo revela quantos números estão corretos e na posição certa.
+## Hidden Password é um jogo de lógica onde o jogador deve descobrir uma senha numérica oculta, escolhendo o nível de dificuldade (fácil, médio ou difícil). A cada tentativa, o jogo revela quantos números estão corretos e na posição certa.
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
